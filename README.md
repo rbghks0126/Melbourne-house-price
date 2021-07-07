@@ -13,7 +13,7 @@ Personal Data Science project for predicting house prices in Melbourne using 201
     - Future improvement: I manually created a new feature by computing each house's distance to its closest train station in Melbourne. Turns out that there is the `GeoPandas` library that can do such tasks easily. Remember for future projects!
 - Conveniently visualise house prices in Melbourne graphically using Google Maps API. 
     - Apparently you can't see gmaps visualisation by opening the notebook on github. So here's an example.
-![Gmaps Example](gmaps_example.PNG)
+![Gmaps Example](img/maps_example.PNG)
 
 ## house_price_modelDevelopment.ipynb
 - Using the cleaned, final data, try out various machine learning models and compare the performance in predicting house prices on test set.
