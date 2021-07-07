@@ -2,7 +2,7 @@
 Personal Data Science project for predicting house prices in Melbourne using 2016-17 dataset from Kaggle (https://www.kaggle.com/dansbecker/melbourne-housing-snapshot).
 
 ## house_price_preprocessing.ipynb
-- Preprocess data and refine feature set by removing multicollinearity, removing outliers, etc.
+- Preprocess data and refine dataset by removing multicollinearity, removing outliers, etc.
 
 ## house_price_tosql.ipynb
 - Set up MySQL database to store the cleaned dataset.
